@@ -5,7 +5,7 @@
 1. Joshua Enriquez
     - May 13th
 
-2. Jillan Igonio
+2. Jillan Egonio
     - March 21st
 
 3. Floyd Martin Angelou Mendoza
