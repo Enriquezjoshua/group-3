@@ -1,6 +1,6 @@
-* Group 3
+# Group 3
 
-** Birthdays
+## Birthdays
 
 1. Joshua Enrequez
     - May 13th
