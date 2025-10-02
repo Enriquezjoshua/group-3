@@ -2,7 +2,7 @@
 
 1. Joshua Enriquez
 
- *** - joshuaenriquez211@gmail.com
+    - joshuaenriquez211@gmail.com
 
 
 2. Jillan Egonio
