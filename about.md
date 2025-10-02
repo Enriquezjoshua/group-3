@@ -1,7 +1,9 @@
  # Emails
 
 1. Joshua Enriquez
-    - `joshuaenriquez211@gmail.com`
+***bash
+    - joshuaenriquez211@gmail.com
+***
 
 2. Jillan Egonio
     - `jillan.egonio18@gmail.com`
