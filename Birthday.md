@@ -2,7 +2,7 @@
 
 ## Birthdays
 
-1. Joshua Enrequez
+1. Joshua Enriquez
     - May 13th
 
 2. Jillan Igonio
@@ -14,5 +14,5 @@
 4. John Rey de Paz
     - January 2nd
 
-5. Janille JEm Cemanes
+5. Janille Jem Cemanes
     - September 6th
